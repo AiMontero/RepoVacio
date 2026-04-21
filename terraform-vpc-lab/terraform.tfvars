@@ -1,0 +1,6 @@
+aws_region       = "us-east-1"
+availability_zone = "us-east-1a"
+vpc_cidr         = "172.16.0.0/16"
+subnet_cidr      = "172.16.1.0/24"
+instance_type    = "t2.micro"
+ami_id           = "ami-0c55b159cbfafe1f0"
